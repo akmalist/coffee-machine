@@ -49,8 +49,6 @@ def safficient_transaction(item_ingrideients):
     return True
 
 
-# print(calculateResources(resources, latteIngredients))
-
 gameOn = True
 profit = 0
 
